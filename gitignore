@@ -1,0 +1,11 @@
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+/[Bb]uilds/
+/[Ll]ibrary/
+*.keystore
+*.apk
+*.ap_
+.vs/
+*.stackdump
+*.unitypackage
